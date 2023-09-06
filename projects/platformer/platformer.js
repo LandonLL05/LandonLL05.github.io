@@ -54,6 +54,7 @@ createPlatform(1200, 250, 70, 10);
 createPlatform(1000, 150, 60, 10);
 createPlatform(500, 700, 50, 10);
 createPlatform(850, 125, 40, 10);
+createPlatform()
 
     
     // TODO 2
