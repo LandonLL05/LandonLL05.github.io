@@ -69,7 +69,7 @@ createCollectable("diamond", 1200, 200, 1, .1);
 createCollectable("max", 500, 650, 1, .1);
 createCollectable("grace", 850, 100, 1, .1);
 createCollectable("kennedi", 700, 100, 1, .1);
-createCollectable("database", 1000, 450, 1, .1)
+createCollectable("database", 1000, 440, 1, .1)
     // TODO 3
     // Create cannons
     // You must decide the wall you want the cannon on, the position on the wall, and the time between shots in milliseconds
